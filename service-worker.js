@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/woods44-pages/precache-manifest.3862b79c2535f016fa6494173e8d68f8.js"
+  "/woods44-pages/precache-manifest.8c85b9a0c2bd3c1648a6476c7d7e7f56.js"
 );
 
 workbox.clientsClaim();
